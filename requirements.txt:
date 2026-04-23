@@ -1,0 +1,4 @@
+selenium
+pytest
+playwright
+pytest-html
